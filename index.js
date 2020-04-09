@@ -1,5 +1,3 @@
-forever
-
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
@@ -8,7 +6,7 @@ const token = 'Njk3NjA5MzkxMTc5OTU2MjU1.Xo6IXg.L_lwgSOKYUpWuVMsesAVDMEPRuI';
 bot.on('ready', () =>{
     console.log('Windows 95 startup sound plays');
 })
-const PREFIX = '>';
+const PREFIX = '/*';
 var servers = {};
 
 
