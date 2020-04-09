@@ -1,0 +1,22 @@
+{
+  "name": "windowsbot.discord",
+  "version": "1.0.0",
+  "description": "The bot for the windows server (the funny one)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Damianswankkd4/windowsbot.discord.git"
+  },
+  "author": "DamianSwan and Designed by Pyinrix",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "opusscript": "0.0.7"
+  }
+}
+
+  
+
